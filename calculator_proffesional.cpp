@@ -27,6 +27,5 @@ cout<<"---------------\nYour answer is : " << d;
  }
 else 
 cout<<"---------------\nINVALID OPERATION COde ";
-cout<<"hello trial";
     return 0 ;
 }
